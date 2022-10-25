@@ -1,0 +1,6 @@
+django
+myclient
+crispy_forms
+os
+sys
+django.core.management
